@@ -1,0 +1,8 @@
+#EXTINF:-1, Thai Channel 8
+rtmp://202.142.207.150/live/liveinfinity1
+#EXTINF:-1, Thai AMARIN TV
+http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:-1, sabaidee tv
+rtmp://202.142.207.150:1935/live/livesabaidee1
+#EXTINF:-1, Channel 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
